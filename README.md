@@ -1,4 +1,4 @@
-# **ROI coin is _"Return on Investment"_** 
+# **ROI coin is _"Different"_** 
 
 ROIcoin <img src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=1.1.6.0&x2=0">
 
@@ -6,39 +6,44 @@ ROIcoin <img src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=
 
 > * __Website:__ [https://roi-coin.com](https://roi-coin.com)
 > * __Facebook:__ [https://www.facebook.com/roicoin](https://www.facebook.com/roicoin)
+> * __Facebook Group:__ [https://www.facebook.com/groups/177521572870678/](https://www.facebook.com/groups/177521572870678/)
 > * __Twitter:__ [https://twitter.com/ROI_Coin](https://twitter.com/ROI_Coin)
 > * __Google Plus:__ [https://plus.google.com/b/109809615316952270396/109809615316952270396](https://plus.google.com/b/109809615316952270396/109809615316952270396)
 > * __YouTube:__ [https://www.youtube.com/channel/UCclukUCxqxHk-nrUSj3MM5g](https://www.youtube.com/channel/UCclukUCxqxHk-nrUSj3MM5g)
+> * __Slack:__ [https://join.slack.com/t/roicoin/shared_invite/enQtMzQ0MjgyNTI5MTc1LTY2ZDRjYjI3NGJmMWU3MmYxMTdiYzlhMDEyZDdiMjVmNjEyOTdmZjJjYjQ3MDExOWE4NzA0NjBhYThhNzAwYTM](https://join.slack.com/t/roicoin/shared_invite/enQtMzQ0MjgyNTI5MTc1LTY2ZDRjYjI3NGJmMWU3MmYxMTdiYzlhMDEyZDdiMjVmNjEyOTdmZjJjYjQ3MDExOWE4NzA0NjBhYThhNzAwYTM)
+> * __Discord:__ [https://discord.gg/8fsCuth](https://discord.gg/8fsCuth)
+> * __Telegram Announcements:__ [https://t.me/ROI_coin](https://t.me/ROI_coin)
+> * __Telegram Group:__ [https://t.me/joinchat/I0JIzQ72Fz6EWWAMwQURhQ](https://t.me/joinchat/I0JIzQ72Fz6EWWAMwQURhQ)
+> * __Bitcointalk ANN:__ [https://bitcointalk.org/index.php?topic=2361848.0](https://bitcointalk.org/index.php?topic=2361848.0)
 
 ## What is ROI coin?
 
-> **ROI coin** is a Cryptocurrency built on the ROI coin core ver. 11.3, incorporating HOdl PoS to reward savers.  
-> It pays interest on every balance as well as higher interest rates for locked term deposits and that is precisely why ROI coin is Return on Investment.
+> **ROI coin** is a Cryptocurrency built on the ROI coin core ver. 11.3, incorporating POW, POS and term deposits.  
+> It pays staking on every balance as well as higher staking for locked term deposits and that is precisely why ROI coin is a very unique triple hybrid.
 
-### Compound Interest on _all Balances_
+### Compound Staking on _all Balances_
 
-> Interest is paid on all outputs (Balances) and compounded on each block. This is to discourage rolling outputs into new blocks simply to compound interest.
+> Staking is paid on all outputs (Balances) and compounded on each block. This is to discourage rolling outputs into new blocks simply to compound POS.
 
 ### Benefits:
 
 > -  Exciting for Stakeholder to see their balances continually increase as each block is received.
-> -  Interest discourages users from leaving large balances on exchanges - expensive to maintain large sell walls.
-> -  Interest encourages users to keep their balances, reducing supply while increasing market demand.
-> -  30 day limit will dilute abandoned balances, reducing supply.
-> -  30 day limit encourages term deposits, reducing supply and increasing demand.
-> -  Encourages exchanges to trade in the coin, as they can earn interest on customer's deposits.
-> -  Unconfirmed transactions become more valuable over time, as their inputs continue to earn interest. 
+> -  POS discourages users from leaving large balances on exchanges - expensive to maintain large sell walls.
+> -  POS encourages users to keep their balances, reducing supply while increasing market demand.
+> -  Encourages exchanges to trade in the coin, as they can earn POS on customer's deposits.
+> -  Unconfirmed transactions become more valuable over time, as their inputs continue to gain coins. 
 
-### Deposit Interest
+### Term Deposit Staking
 
-> - Paid on Term Deposits (aka Fixed deposit / time deposit)
-> - Regular deposits can have a maximum of 1 year interest
+> - POS on term deposits (aka fixed deposit / time deposit).
+> - Term deposits can have a minimum of 2 days and a maximum of 1 year time span.
+> - Term deposits range in staking ratio with the longer the term deposit the more the staking increase.
 
 ## Why?
 
-> -  This encourages and reward Stakeholder.
+> -  This encourages long term engagement of the end user.
 > -  Term deposits also constrain supply, increasing demand - term deposit coins cannot be moved until term ends.
-> - Interest is handled in the blockchain and protocol using CHECKLOCKTIMEVERIFY. There is no counterparty. 
+> -  POS is handled in the blockchain and protocol using CHECKLOCKTIMEVERIFY. There is no counterparty. 
 
 ### Fixed Parameters
 
@@ -68,7 +73,8 @@ ROIcoin <img src="https://d25lcipzij17d.cloudfront.net/badge.svg?id=gh&type=6&v=
 > **Note:**
 > 
 > - When a Term Deposit matures, it stops earning interest - you need to move it to start earning interest again.
-> - Bonus rates are paid on regular balances as well. 15% APR
+> - POS is paid on non term deposited balances as well at a POS rate of 15% per year.
+> - If and when necessary and at a future date it may become necessary to reduce the term deposit and/or regular POS ratios in order to control any inflation issues that may crop up.
 
 ## Proof of Work
 
